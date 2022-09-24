@@ -1,0 +1,12 @@
+User Driving
+  Inputs
+  Controls
+  Crash
+
+Damage Estimate
+  User inputs esttimate
+  Game displays wrecked car and damages
+  Displays damages total
+
+Lawsuit View
+  If being sued then show cost of representation without insurance, otherwise sleep tight, you will recieve notifications with updates.
